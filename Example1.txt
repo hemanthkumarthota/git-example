@@ -8,6 +8,7 @@ git branch <name>
 git checkout <branchname>
 
 git status
+<<<<<<< HEAD
 
 git diff <file name>
 
@@ -19,3 +20,5 @@ git status --> red mark files --> unstaged files (which mean they are locally mo
 git add <file1> <file2> --> unstaged --> staged 
 
 ####### HELLO HEMANTH  #######
+=======
+>>>>>>> origin/main
