@@ -8,16 +8,3 @@ git branch <name>
 git checkout <branchname>
 
 git status
-
-git diff <file name>
-
-git restore <file name>
-
-git restore --staged <filename>
-
-git status --> red mark files --> unstaged files (which mean they are locally modified )
-git add <file1> <file2> --> unstaged --> staged 
-
-git commit -m "committing script changes for cts teacat script"
-
-git push origin <branch name>
