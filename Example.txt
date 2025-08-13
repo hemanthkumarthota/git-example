@@ -22,9 +22,7 @@ git commit -m "committing script changes for cts teacat script"
 
 git push origin <branch name>
 
-<<<<<<< HEAD
-
-
+===========
 git status
 git add <filename>
 git config --global user.email hemanthroyal27@gmail.com
@@ -35,5 +33,4 @@ git branch
 git push origin <branch name>   //   git push -u origin <branch name> 
 git pull
 =======
-hello
->>>>>>> 643b8d68ce330cf32148a34c94df942d4ae73e55
+

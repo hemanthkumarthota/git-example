@@ -8,3 +8,17 @@ git branch <name>
 git checkout <branchname>
 
 git status
+<<<<<<< HEAD
+
+git diff <file name>
+
+git restore <file name>
+
+git restore --staged <filename>
+
+git status --> red mark files --> unstaged files (which mean they are locally modified )
+git add <file1> <file2> --> unstaged --> staged 
+
+####### HELLO HEMANTH  #######
+=======
+>>>>>>> origin/main
