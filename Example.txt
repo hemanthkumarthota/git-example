@@ -21,3 +21,15 @@ git add <file1> <file2> --> unstaged --> staged
 git commit -m "committing script changes for cts teacat script"
 
 git push origin <branch name>
+
+
+
+git status
+git add <filename>
+git config --global user.email hemanthroyal27@gmail.com
+git commit -m "This is Mine"
+git remote add origin https://github.com/hemanthkumarthota/git-example.git
+git branch -m main
+git branch
+git push origin <branch name>   //   git push -u origin <branch name> 
+git pull
